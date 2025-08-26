@@ -1,10 +1,3 @@
 #EXTM3U
-#EXT-X-VERSION:7
-
-# Audio
-#EXT-X-MEDIA:NAME="mul-80",TYPE=AUDIO,LANGUAGE="mul",GROUP-ID="audio",CODECS="mp4a.40.5",DEFAULT=YES,AUTOSELECT=YES,URI="https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/103/80/video-cif-stream-1.m3u8"
-
-# Video (540p – paling besar)
-#EXTINF:-1 tvg-id="astro103" tvg-name="Astro 103" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Astro",
-#EXT-X-STREAM-INF:CODECS="avc1.4d4029,mp4a.40.5",BANDWIDTH=960000,RESOLUTION=960x540,AUDIO="audio"
+#EXTINF:-1 tvg-id="CASA" tvg-name="CASA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Astro",
 https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/103/165/video-cif-stream-4.m3u8
