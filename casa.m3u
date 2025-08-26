@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CASA" tvg-name="CASA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png" group-title="Astro",
-https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/809/165/video-cif-stream-4.m3u8
+#EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3.png" group-title="Malaysia",
+https://linearjitp-playback.astro.com.my/hls-mp4-fp/linear/103/165/video-cif-stream-4.m3u8
